@@ -1,0 +1,18 @@
+#hedelmat {
+    list-style-type:circle;
+    
+    }
+
+#fruit {
+    
+    
+}
+
+li {
+    float: left;
+    padding: 17px;
+    }
+
+ol {
+    text-align: center;
+    }
